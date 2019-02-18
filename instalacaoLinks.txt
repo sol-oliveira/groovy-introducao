@@ -1,0 +1,11 @@
+
+INSTALAÇÃO
+
+http://groovy-lang.org/download.html
+
+https://www.java.com/pt_BR/download/ 
+
+http://groovy-lang.org/documentation.html
+
+CONFIGURAÇÃO
+

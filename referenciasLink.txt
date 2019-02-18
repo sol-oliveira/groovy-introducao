@@ -1,0 +1,5 @@
+http://grails.asia/groovy-map-tutorial
+
+http://www.groovy-lang.org/documentation.html
+
+http://docs.groovy-lang.org/docs/next/html/documentation/#_groovy_language_specification
